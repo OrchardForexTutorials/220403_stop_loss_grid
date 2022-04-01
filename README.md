@@ -7,6 +7,10 @@ This approach removes the possibility of unlimited drawdowns in the case of a st
 The code here is true to the principles of the strategy although there could be some improvements in implementation which
 may appear in a later tutorial.
 
+The Orchard Framework is available as a separate repository at https://github.com/OrchardForexTutorials/framework_3
+
+This code is for education and entertainment purposes only, it is not to be used for live trading.
+
 ### License
 
 The project is released under [GNU GPLv3 licence](https://www.gnu.org/licenses/quick-guide-gplv3.html),
